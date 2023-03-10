@@ -1,0 +1,64 @@
+
+
+.back{
+   background-image: url("https://www.pixelstalk.net/wp-content/uploads/2016/07/Free-Beautiful-Full-HD-Picture-Download.jpg");
+}
+
+.saas{
+    height: 150px;
+    width: 150px;
+    border-radius: 20px;
+    margin-left: 0px;
+    margin-top: 50px;
+    margin-left: 20px;
+
+
+}
+
+.saa{
+  
+    width: 900px;
+    margin: 3px;
+ 
+    margin-left: 250px;
+     height: 505px;
+     background-color: darkturquoise;
+   /* background-color: rgb(183, 77, 158); */
+   background-image: url("https://assets.telegraphindia.com/telegraph/2020/Dec/1609181088_eqiy5bhu0aepp7g.jpg");
+   background-repeat: no-repeat;
+   display: flex;
+   
+
+}
+
+.vani{
+    background-color: rgb(215, 36, 161);
+    color: rgb(80, 23, 202);
+    border-radius: 7px;
+    height: 25px;
+    font-size: 15px;
+    width: 100px;
+
+}
+
+.vani:hover{
+    background-color: rgb(195, 222, 73);
+}
+.kumar{
+    background-color: rgb(215, 36, 161);
+    color: rgb(91, 12, 249);
+    border-radius: 7px;
+    height: 25px;
+    width: 100px;
+    font-size: 15px;
+
+}
+
+.kumar:hover{
+    background-color: rgb(195, 222, 73);
+    
+    
+}
+h1{
+    color: rgb(233, 19, 19);
+}
